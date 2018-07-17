@@ -1,6 +1,6 @@
 # Configure the app
 
-Create a new `.env` in the src/ directory with the ApiKey provided:
+Create a new `.env` file in the project root directory, with the ApiKey provided:
 
 ```
 REACT_APP_API_KEY=the-api-key-here
